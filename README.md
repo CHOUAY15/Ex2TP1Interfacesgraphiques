@@ -47,8 +47,13 @@ git clone https://github.com/CHOUAY15/Habitation-Android-App.git
 4. Click the "Run" button or press Shift + F10.
 ## Additional Resources
 
-Click the link below to watch a demonstration video:
-- [Demonstration Video (WebM)](demoVideo.webm)
+ watch a demonstration video:
+ 
+
+https://github.com/user-attachments/assets/b07bd803-6269-4b70-90ba-266a7b387232
+
+
+
 ## Contributors
 - CHOUAY Walid ([GitHub](https://github.com/CHOUAY15))
   
