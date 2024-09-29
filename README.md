@@ -38,7 +38,7 @@ The application includes:
 
 To clone the repository, run the following command in your terminal:
 
-git clone https://github.com/CHOUAY15/Habitation-Android-App.git
+git clone https://github.com/CHOUAY15/Ex2TP1Interfacesgraphiques.git
 ### Running the Application
 
 1. Open the project in Android Studio.
